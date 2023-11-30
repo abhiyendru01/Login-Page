@@ -1,4 +1,4 @@
-making responsive login page using react,js,html and css
+making responsive login page using html and css
 
 developer:rahul
 github:-https://github.com/abhiyendru01
